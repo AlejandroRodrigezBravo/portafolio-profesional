@@ -526,11 +526,15 @@ img {
 }
 
 .skills__css {
-    width: 65%;
+    width: 70%;
 }
 
 .skills__js {
-    width: 50%;
+    width: 70%;
+}
+
+.skills__jsp {
+    width: 70%;
 }
 
 .skills__bootstrap {
@@ -546,36 +550,33 @@ img {
 }
 
 .skills__java {
-    width: 85%;
+    width: 90%;
 }
 
 .skills__spring {
-    width: 75%;
+    width: 90%;
 }
 
 .skills__mysql {
-    width: 75%;
+    width: 80%;
 }
 
 .skills__hb {
-    width: 65%;
+    width: 80%;
 }
 
 .skills__maven {
-    width: 65%;
+    width: 80%;
 }
 
-.skills__apache {
-    width: 60%;
+.skills__oracle {
+    width: 80%;
 }
 
 .skills__git {
-    width: 60%;
+    width: 90%;
 }
 
-.skills__docket {
-    width: 50%;
-}
 
 .skills__herramientas {
     width: 80%;
