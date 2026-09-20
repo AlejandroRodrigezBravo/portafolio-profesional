@@ -16,7 +16,7 @@ Abrir http://localhost:8080. También se puede abrir `mi-portafolio/index.html` 
 
 El archivo `netlify.toml` declara `mi-portafolio` como directorio de publicación. No requiere comando de compilación. En un sitio existente, comprobar que el directorio base de Netlify sea la raíz del repositorio; no duplicar `mi-portafolio/mi-portafolio`.
 
-Antes de publicar, revisar el diseño en móvil y escritorio y completar las fechas pendientes del CV. La rama de revisión es `mejora/portfolio-backend-2026`.
+Antes de publicar, revisar el diseño en móvil y escritorio. La rama de revisión es `mejora/portfolio-backend-2026`.
 
 ## Contenido
 
@@ -24,7 +24,7 @@ Antes de publicar, revisar el diseño en móvil y escritorio y completar las fec
 - `mi-portafolio/proyectos/`: casos de AgroPlanner, La Porra Global, Mundial 2026, FUNDAE Autopilot y API de precios.
 - `mi-portafolio/assets/css/styles.css`: diseño responsive y estilos de impresión.
 - `mi-portafolio/assets/js/main.js`: menú accesible y año del pie.
-- `mi-portafolio/assets/pdf/CV_backendDeveloper.pdf`: copia exacta del CV aportado el 20/09/2026.
+- `mi-portafolio/assets/pdf/CV_backendDeveloper.pdf`: CV actualizado con las fechas confirmadas de UST y AgroPlanner y formación sin fechas.
 - `mi-portafolio/assets/img/`: fotografía y capturas originales, versiones WebP optimizadas, favicon y tarjeta social.
 
 Se mantienen los recursos históricos para evitar borrados innecesarios; Swiper y las fuentes de iconos externas ya no se cargan. No se añade analítica ni formulario que almacene datos. El contacto utiliza correo y perfiles profesionales.
